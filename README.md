@@ -61,9 +61,9 @@
 
 ### 📫 How to Reach Me
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [GitHub Profile](https://github.com/your-profile)
+- **Email:** kiranps135@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/kiran-sonawane-b02558215
+- **GitHub:** [GitHub Profile](https://github.com/kiranps135)
 
 ---
 
