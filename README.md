@@ -62,7 +62,7 @@
 ### 📫 How to Reach Me
 
 - **Email:** kiranps135@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/kiran-sonawane-b02558215
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/kiran-sonawane-b02558215)
 - **GitHub:** [GitHub Profile](https://github.com/kiranps135)
 
 ---
