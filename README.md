@@ -10,9 +10,10 @@
 - 💬 Ask me about Kubernetes, Docker, and Cloud
 - 📫 How to reach me kiranps135@gmail.com
 
----
+
 
 ### 🛠️ Tech Stack
+---
 <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
