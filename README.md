@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Ingress%20Controller-0080FF?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
----
+
 ---
 
 #### 💻 **Cloud & Containerization:**
