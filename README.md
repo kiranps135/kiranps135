@@ -17,7 +17,14 @@
 - ***Languages:*** Linux, Python, Shell Script (Intermediate), YAML, Groovy (Basic).
 - ***Containerization Orchestration:*** Docker, Kubernetes, Docker Swarm, Rancher.
 - ***Other Tools & Technologies:*** Jenkins, Gitlab, Terraform, Sonarqube, Argo CD, GitOps, Helm chart, ELK Stack, Prometheus, Grafana, Loki, kasten-10, Velero, Postgres, MySQL, MongoDB, Redis, Longhorn, Rook-Ceph, Local-path-provisioner,                                          Ingress-Controller, Cloud Migrations, Metal-LB, MinIO, Nginx, Apache, Matomo(telemetry), Kubu Sphere, etc.
+
 --- 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 #### 💻 **Cloud & Containerization:**
 - **Cloud Providers:**  Azure , AWS,
