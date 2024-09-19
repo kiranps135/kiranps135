@@ -1,6 +1,10 @@
-## 👨‍💻 Cloud DevOps Engineer | Cloud Enthusiast 
+## 👨‍💻 HI, I am Kiran Sonawane..
 
-***Hi there! I'm a passionate **DevOps Engineer** with a focus on cloud infrastructure, automation, and continuous improvement. With over **4 years of experience** in building and optimizing scalable solutions, I thrive on enhancing deployment pipelines, monitoring systems, and managing infrastructure as code (IaC).***
+##Cloud DevOps Engineer | Cloud Enthusiast | Certified Kubernetes Administrator (CKA)
+
+***Hi there! I'm a passionate **DevOps Engineer** with a focus on cloud infrastructure, automation, and continuous improvement ,building and optimizing scalable solutions, I thrive on enhancing deployment pipelines, monitoring systems, and managing infrastructure with Praivate and Public env like Azure and AWS .***
+
+***Cloud DevOps engineer in a private cloud or data center provider company. Expertise in automating, optimizing, and managing end-to-end software development and deployment pipelines using CICD, infrastructure automation, and DevOps. Super nerd who loves Linux and Containerization and enjoys to customize all of the development environments. I am interested in devising a better problem-solving method for challenging tasks, and learning new tools and technologies.***
 
 - 👋 Hi, I’m @kiran working as Cloud DevOps Engineer.
 - 👀 I’m interested in Devops and Cloud Technologies
@@ -11,11 +15,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
-- ***Cloud Platforms:*** AWS, Azure, eNlight360.
-- ***Languages:*** Linux, Python, Shell Script (Intermediate), YAML, Groovy (Basic).
-- ***Containerization Orchestration:*** Docker, Kubernetes, Docker Swarm, Rancher.
-- ***Other Tools & Technologies:*** Jenkins, Gitlab, Terraform, Sonarqube, Argo CD, GitOps, Helm chart, ELK Stack, Prometheus, Grafana, Loki, kasten-10, Velero, Postgres, MySQL, MongoDB, Redis, Longhorn, Rook-Ceph, Local-path-provisioner,                                          Ingress-Controller, Cloud Migrations, Metal-LB, MinIO, Nginx, Apache, Matomo(telemetry), Kubu Sphere, etc.
   
 ---
 <p align="center">
@@ -52,7 +51,7 @@
 - **Experience with:** SonarQube,
 - **Achievements:**
   - Deployed **SonarQube** and **GitLab** containers on the same VM
-  - Optimized CI/CD pipelines for better efficiency in restricted environments (like air-gapped networks)
+  - Optimized **CI/CD** pipelines for better efficiency in restricted environments (like air-gapped networks)
 
 #### 📈 **Monitoring & Logging:**
 - **Infrastructure Monitoring:** Prometheus, Grafana, Loki
