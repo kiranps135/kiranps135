@@ -20,7 +20,7 @@
 
 --- 
 
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
     <img src="https://img.shields.io/badge/ArgoCD-4A4A55?style=for-the-badge&logo=argo&logoColor=#d16044" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
+</p>
 
 ---
 
