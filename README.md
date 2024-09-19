@@ -41,7 +41,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/linux.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/docker.svg" width="50" height="50" />
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg width="50" height="50" " />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/kubernetes.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argocd.svg" width="50" height="50" /> 
