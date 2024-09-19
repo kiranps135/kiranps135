@@ -1,10 +1,8 @@
 ## 👨‍💻 HI, I am Kiran Sonawane..
 
-##Cloud DevOps Engineer | Cloud Enthusiast | Certified Kubernetes Administrator (CKA)
+### Cloud DevOps Engineer | Cloud Enthusiast | Certified Kubernetes Administrator (CKA)
 
-***Hi there! I'm a passionate **DevOps Engineer** with a focus on cloud infrastructure, automation, and continuous improvement ,building and optimizing scalable solutions, I thrive on enhancing deployment pipelines, monitoring systems, and managing infrastructure with Praivate and Public env like Azure and AWS .***
-
-***Cloud DevOps engineer in a private cloud or data center provider company. Expertise in automating, optimizing, and managing end-to-end software development and deployment pipelines using CICD, infrastructure automation, and DevOps. Super nerd who loves Linux and Containerization and enjoys to customize all of the development environments. I am interested in devising a better problem-solving method for challenging tasks, and learning new tools and technologies.***
+***Hi! I'm a Cloud & DevOps engineer specializing in cloud infrastructure, automation, and scalable solutions. I optimize deployment pipelines, manage private/public environments (Azure, AWS), and love Linux and containerization. Always eager to solve challenges and explore new tools and technologies.***
 
 - 👋 Hi, I’m @kiran working as Cloud DevOps Engineer.
 - 👀 I’m interested in Devops and Cloud Technologies
