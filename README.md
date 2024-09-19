@@ -18,8 +18,6 @@
 - ***Containerization Orchestration:*** Docker, Kubernetes, Docker Swarm, Rancher.
 - ***Other Tools & Technologies:*** Jenkins, Gitlab, Terraform, Sonarqube, Argo CD, GitOps, Helm chart, ELK Stack, Prometheus, Grafana, Loki, kasten-10, Velero, Postgres, MySQL, MongoDB, Redis, Longhorn, Rook-Ceph, Local-path-provisioner,                                          Ingress-Controller, Cloud Migrations, Metal-LB, MinIO, Nginx, Apache, Matomo(telemetry), Kubu Sphere, etc.
 
---- 
-
 <p align="center">
     <img src="https://img.shields.io/badge/ArgoCD-4A4A55?style=for-the-badge&logo=argo&logoColor=#d16044" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -37,8 +35,13 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+--- 
+
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg" width="50" height="50" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/linux.svg" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/docker.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/kubernetes.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argocd.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" />
@@ -46,6 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" />
+
 
 </p>
 
