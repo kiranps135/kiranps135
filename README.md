@@ -1,3 +1,7 @@
+## 👨‍💻 DevOps Engineer | Cloud Enthusiast | Automation Advocate
+
+### Hi there! I'm a passionate **DevOps Engineer** with a focus on cloud infrastructure, automation, and continuous improvement. With over **4 years of experience** in building and optimizing scalable solutions, I thrive on enhancing deployment pipelines, monitoring systems, and managing infrastructure as code (IaC).
+
 - 👋 Hi, I’m @kiran working as Cloud DevOps Engineer.
 - 👀 I’m interested in Devops and Cloud Technologies
 - 🌱 I’m currently learning Python and Go for cloud Automation.
@@ -5,9 +9,6 @@
 - 
 - 📫 How to reach me kiranps135@gmail.com
 
-# 👨‍💻 DevOps Engineer | Cloud Enthusiast | Automation Advocate
-
-### Hi there! I'm a passionate **DevOps Engineer** with a focus on cloud infrastructure, automation, and continuous improvement. With over **4 years of experience** in building and optimizing scalable solutions, I thrive on enhancing deployment pipelines, monitoring systems, and managing infrastructure as code (IaC).
 
 ---
 
@@ -17,7 +18,8 @@
 - ***Languages:*** Linux, Python, Shell Script (Intermediate), YAML, Groovy (Basic).
 - ***Containerization Orchestration:*** Docker, Kubernetes, Docker Swarm, Rancher.
 - ***Other Tools & Technologies:*** Jenkins, Gitlab, Terraform, Sonarqube, Argo CD, GitOps, Helm chart, ELK Stack, Prometheus, Grafana, Loki, kasten-10, Velero, Postgres, MySQL, MongoDB, Redis, Longhorn, Rook-Ceph, Local-path-provisioner,                                          Ingress-Controller, Cloud Migrations, Metal-LB, MinIO, Nginx, Apache, Matomo(telemetry), Kubu Sphere, etc.
-
+- 
+---
 <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
