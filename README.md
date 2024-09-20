@@ -86,6 +86,10 @@
 
 ---
 
+<script src="https://gist.github.com/kiranps135/gist-id.js"></script>
+
+
+---
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranps135&show_icons=true&theme=radical)
