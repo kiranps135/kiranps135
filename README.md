@@ -86,6 +86,10 @@
 
 ---
 
+### Check out my Gist:
+[My Gist](https://gist.github.com/your-username/gist-id)
+
+
 <script src="https://gist.github.com/kiranps135/gist-id.js"></script>
 
 
